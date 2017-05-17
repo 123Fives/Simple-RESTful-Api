@@ -9,19 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/123fives/RESTfulAPITest.git"
+    "url": "git+https://github.com/123fives/Simple-RESTful-Api.git"
   },
   "keywords": [
     "RESTful",
-    "API",
-    "Tutorial"
+    "API"
   ],
   "author": "veronica highsmith",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/123fives/RESTfulAPITest/issues"
+    "url": "https://github.com/123fives/Simple-RESTful-Api/issues"
   },
-  "homepage": "https://gihub.com/123fives/RESTfulAPITest#readme",
+  "homepage": "https://gihub.com/123fives/Simple-RESTful-Api#readme",
   "devDependencies": {
     "nodemon": "^1.11.0"
   },
