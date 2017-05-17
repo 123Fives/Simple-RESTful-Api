@@ -1,9 +1,9 @@
 # SimpleRESTfulApi
 NodeJS, MongoDB Restful API
 
+# Installation
 Clone the project
 
-# Installation
 Install dependencies:
 
 ```bash
