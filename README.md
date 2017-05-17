@@ -1,6 +1,8 @@
 # SimpleRESTfulApi
 NodeJS, MongoDB Restful API
 
+Clone the project
+
 # Installation
 Install dependencies:
 
