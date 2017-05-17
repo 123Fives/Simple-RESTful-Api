@@ -2,8 +2,11 @@
 NodeJS, MongoDB Restful API
 
 # Installation
-Clone the project
+Clone the project:
 
+```bash
+git clone https://github.com/123Fives/Simple-RESTful-Api.git
+```
 Install dependencies:
 
 ```bash
